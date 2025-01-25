@@ -24,7 +24,7 @@ export function MeteorDemo({
         <div></div>
       ) : (
         // Content when not loading
-        <div className="relative w-full h-screen overflow-hidden flex justify-center flex-col">
+        <div className="mt-10 relative w-full h-screen overflow-hidden flex justify-center flex-col">
           {/* Meteors */}
           <Meteors />
 
@@ -44,7 +44,7 @@ export function MeteorDemo({
             </p>
           )}
 
-          <p className="max-w-xl mb-2 mx-auto text-sm md:text-lg text-center text-black-900 dark:text-neutral-400 relative z-20">
+          <p className="max-w-xl mb-4 mx-auto text-sm md:text-lg text-center text-black-900 dark:text-neutral-400 relative z-20">
             {heroInfo.description}
           </p>
           <SparklesPreview />
