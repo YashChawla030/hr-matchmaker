@@ -20,25 +20,25 @@ body {
     --card-foreground: 240 10% 3.9%;
     --popover: 0 0% 100%;
     --popover-foreground: 240 10% 3.9%;
-    --primary: 174 68% 45%; /* Teal */
-    --primary-foreground: 174 85% 95%; /* Light Teal */
-    --secondary: 174 28% 85%; /* Soft Teal */
-    --secondary-foreground: 174 30% 10%; /* Darker Teal */
-    --muted: 174 28% 85%; /* Muted Teal */
-    --muted-foreground: 174 20% 30%; /* Softer Teal Contrast */
-    --accent: 174 68% 45%; /* Teal */
-    --accent-foreground: 174 85% 95%; /* Light Teal */
+    --primary: 250 50% 40%; /* Indigo */
+    --primary-foreground: 240 80% 95%; /* Light Indigo */
+    --secondary: 240 40% 60%; /* Soft Indigo */
+    --secondary-foreground: 240 30% 10%; /* Darker Indigo */
+    --muted: 240 40% 60%; /* Muted Indigo */
+    --muted-foreground: 240 30% 20%; /* Softer Indigo Contrast */
+    --accent: 240 70% 40%; /* Indigo */
+    --accent-foreground: 240 80% 95%; /* Light Indigo */
     --destructive: 0 84.2% 60.2%; /* Red remains for destructive actions */
     --destructive-foreground: 0 0% 98%;
-    --border: 174 28% 85%; /* Teal */
-    --input: 174 28% 85%; /* Teal */
-    --ring: 174 68% 45%; /* Teal */
+    --border: 240 40% 60%; /* Indigo Border */
+    --input: 240 40% 60%; /* Indigo Input */
+    --ring: 240 70% 40%; /* Indigo Ring */
     --radius: 0.5rem;
-    --chart-1: 174 65% 60%; /* Teal */
-    --chart-2: 176 58% 39%; /* Darker Teal */
-    --chart-3: 178 37% 24%; /* Even Darker Teal */
-    --chart-4: 176 74% 66%; /* Lighter Teal */
-    --chart-5: 174 87% 67%; /* Bright Teal */
+    --chart-1: 240 60% 55%; /* Indigo */
+    --chart-2: 240 50% 45%; /* Darker Indigo */
+    --chart-3: 240 40% 35%; /* Even Darker Indigo */
+    --chart-4: 240 60% 70%; /* Lighter Indigo */
+    --chart-5: 240 75% 60%; /* Bright Indigo */
   }
 
   .dark {
@@ -48,24 +48,24 @@ body {
     --card-foreground: 0 0% 95%;
     --popover: 0 0% 9%;
     --popover-foreground: 0 0% 95%;
-    --primary: 174 68% 45%; /* Teal */
-    --primary-foreground: 174 85% 95%; /* Light Teal */
-    --secondary: 174 28% 25%; /* Darker Soft Teal */
+    --primary: 250 50% 30%; /* Indigo */
+    --primary-foreground: 240 80% 95%; /* Light Indigo */
+    --secondary: 240 30% 50%; /* Darker Indigo */
     --secondary-foreground: 0 0% 98%;
-    --muted: 174 20% 15%; /* Muted Teal */
-    --muted-foreground: 174 40% 65%; /* Softer Teal Contrast */
-    --accent: 174 28% 25%; /* Dark Teal */
+    --muted: 240 30% 40%; /* Muted Indigo */
+    --muted-foreground: 240 50% 65%; /* Softer Indigo Contrast */
+    --accent: 240 30% 50%; /* Dark Indigo */
     --accent-foreground: 0 0% 98%;
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 0 85.7% 97.3%;
-    --border: 174 28% 25%; /* Teal Border */
-    --input: 174 28% 25%; /* Input with Teal */
-    --ring: 174 68% 45%; /* Teal Ring */
-    --chart-1: 174 65% 50%; /* Teal */
-    --chart-2: 172 60% 45%; /* Darker Teal */
-    --chart-3: 178 80% 55%; /* Lighter Teal */
-    --chart-4: 176 65% 60%; /* Bright Teal */
-    --chart-5: 174 75% 55%; /* Vibrant Teal */
+    --border: 240 30% 50%; /* Indigo Border */
+    --input: 240 30% 50%; /* Input with Indigo */
+    --ring: 240 70% 40%; /* Indigo Ring */
+    --chart-1: 240 60% 60%; /* Indigo */
+    --chart-2: 240 50% 50%; /* Darker Indigo */
+    --chart-3: 240 40% 55%; /* Lighter Indigo */
+    --chart-4: 240 60% 65%; /* Bright Indigo */
+    --chart-5: 240 70% 55%; /* Vibrant Indigo */
   }
 }
 

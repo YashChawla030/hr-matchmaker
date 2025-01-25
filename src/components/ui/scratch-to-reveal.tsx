@@ -56,7 +56,7 @@ export const ScratchToReveal: React.FC<ScratchToRevealProps> = ({
       ctx.fillRect(0, 0, canvas.width, canvas.height);
 
       // Draw the text with gradient
-      ctx.fillStyle = "#333333";
+      ctx.fillStyle = "#888888";
       const fontSize =
         fontSizeMap[textStyle?.fontSize as keyof typeof fontSizeMap] ||
         fontSizeMap.lg;

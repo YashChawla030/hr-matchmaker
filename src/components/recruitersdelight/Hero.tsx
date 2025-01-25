@@ -5,7 +5,7 @@ import { HeroType } from "portfolioui";
 import { usePortfolioStore } from "@/store/usePortfolioStore";
 import EditComponent from "../EditComponent";
 import HeroDialog from "../Hero/HeroDialog";
-import { RippleDemo } from "./Ripple";
+import { MeteorDemo } from "./Meteors";
 
 export const Hero = () => {
   const { portfolio, saveHeroInfo, isLoading } = usePortfolioStore();
@@ -42,7 +42,7 @@ export const HeroBeam: React.FC<HeroBeamProps> = ({
       isEditing={isEditing}
       handleEditClick={() => setIsDialogOpen(true)}
     >
-      <RippleDemo heroInfo={heroInfo} isLoading={isLoading} />
+      <MeteorDemo heroInfo={heroInfo} isLoading={isLoading} />
 
       <HeroDialog
         isOpen={isDialogOpen}

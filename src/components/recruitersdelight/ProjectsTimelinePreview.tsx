@@ -43,7 +43,7 @@ export function ProjectsTimelineView({
   }
   return (
     <div className="w-full">
-      <Timeline data={data} className="from-teal-700 via-teal-600" />
+      <Timeline data={data} className="from-indigo-700 via-indigo-600" />
     </div>
   );
 }

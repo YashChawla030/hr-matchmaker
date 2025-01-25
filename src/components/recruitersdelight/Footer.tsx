@@ -43,7 +43,7 @@ export default function Footer() {
       text="Scratch to Contact Me"
       textStyle={{ fontSize: "3vw" }}
       className="flex items-center justify-center overflow-hidden rounded-2xl border-2 mx-auto p-4 sm:p-6"
-      gradientColors={["#005a66", "#00727f", "#008a99"]}
+      gradientColors={["#312E81", "#4338CA", "#4F46E5"]}
     >
       <div className="flex flex-col items-center justify-center w-full space-y-2">
         {/* Content to be revealed */}
