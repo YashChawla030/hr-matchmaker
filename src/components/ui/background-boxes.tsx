@@ -17,7 +17,7 @@ export const BoxesCore = ({
   const rows = new Array(150).fill(1);
   const cols = new Array(100).fill(1);
   const colors = [
-    "--sky-400",
+    "--sky-s",
     "--pink-300",
     "--green-300",
     "--yellow-300",
