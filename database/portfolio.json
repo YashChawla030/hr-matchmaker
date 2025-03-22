@@ -80,16 +80,16 @@
         "companyName": "Zomato",
         "images": [
           {
-            "fileName": "fe2.jpg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-matchmaker/master/images/fe2.jpg"
-          },
-          {
             "fileName": "fe3.png",
             "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-matchmaker/master/images/fe3.png"
           },
           {
             "fileName": "fe1.png",
             "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-matchmaker/master/images/fe1.png"
+          },
+          {
+            "fileName": "frontend engineer 1.png",
+            "fileUrl": "https://raw.githubusercontent.com/YashChawla030/hr-matchmaker/master/images/frontend%20engineer%201.png"
           }
         ]
       }
