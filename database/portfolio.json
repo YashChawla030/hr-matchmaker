@@ -84,23 +84,7 @@
   },
   "achievementsInfo": {
     "displayName": "Awards",
-    "listOfAchievements": [
-      {
-        "id": "1744187228353",
-        "text": "Won 1st place in a college-level Frontend Development Hackathon by building a real-time event management dashboard using React and Firebase.",
-        "type": "award"
-      },
-      {
-        "id": "1744187243253",
-        "text": "Completed the “Meta Front-End Developer” professional certification on Coursera, covering topics like React, version control, testing, and accessibility.",
-        "type": "certificate"
-      },
-      {
-        "id": "1744282957258",
-        "text": "Received the “Best Mini Project” award in the 5th semester for developing a weather forecasting app using React, Tailwind CSS, and OpenWeatherMap API.",
-        "type": "award"
-      }
-    ]
+    "listOfAchievements": []
   },
   "projectsInfo": {
     "displayName": "Timeline",
