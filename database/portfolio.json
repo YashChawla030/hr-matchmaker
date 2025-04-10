@@ -115,7 +115,7 @@
           "linkText": "Link",
           "linkUrl": "https://originui.com/badge"
         },
-        "skills": "React.js, Next.js, Tailwind CSS, TypeScript, JavaScript, Web Performance Optimization",
+        "skills": "React.js, Next.js, Tailwind CSS, TypeScript JavaScript, Web Performance Optimization",
         "companyName": "Zomato Swiggy",
         "images": [
           {
@@ -125,10 +125,6 @@
           {
             "fileName": "da2.jpg",
             "fileUrl": "https://raw.githubusercontent.com/YashChawla030/hr-matchmaker/master/images/da2.jpg"
-          },
-          {
-            "fileName": "da3.png",
-            "fileUrl": "https://raw.githubusercontent.com/YashChawla030/hr-matchmaker/master/images/da3.png"
           }
         ]
       }
