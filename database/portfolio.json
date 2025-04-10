@@ -83,7 +83,7 @@
     "skillAnimationType": "still-animation"
   },
   "achievementsInfo": {
-    "displayName": "Achievements",
+    "displayName": "Awards",
     "listOfAchievements": [
       {
         "id": "1744187124370",
@@ -99,6 +99,11 @@
         "id": "1744187243253",
         "text": "Completed the “Meta Front-End Developer” professional certification on Coursera, covering topics like React, version control, testing, and accessibility.",
         "type": "certificate"
+      },
+      {
+        "id": "1744282925976",
+        "text": "Received the “Best Mini Project” award in the 5th semester for developing a weather forecasting app using React, Tailwind CSS, and OpenWeatherMap API.Received the “Best Mini Project” award in the 5th semester for developing a weather forecasting app using React, Tailwind CSS, and OpenWeatherMap API.Received the “Best Mini Project” award in the 5th semester for developing a weather forecasting app using React, Tailwind CSS, and OpenWeatherMap API.Received the “Best Mini Project” award in the 5th semester for developing a weather forecasting app using React, Tailwind CSS, and OpenWeatherMap API.",
+        "type": "award"
       }
     ]
   },
