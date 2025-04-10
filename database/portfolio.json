@@ -170,20 +170,24 @@
         "rank": "3"
       },
       {
-        "timeline": "2016-2018",
-        "courseName": "Secondary Education (10th Grade)",
-        "instituteName": "Delhi Public School, Noida",
-        "specializedIn": "",
-        "yearPassout": "",
-        "headline1": "Scored full marks in Computer Science.",
-        "headline2": "Participated in multiple hackathons at school level.",
-        "cgpa": "94%",
+        "timeline": "2019 - 2023",
+        "courseName": "Bachelor of Technology",
+        "instituteName": "Graphic Era University, Dehradun",
+        "specializedIn": "Computer Science with Software Engineering",
+        "yearPassout": "2023",
+        "headline1": "Completed MBA from IIM Bangalore with distinction.",
+        "headline2": "Worked on real-time business cases with Fortune 500 companies.",
+        "cgpa": "8.64",
         "link": {
-          "linkText": "",
-          "linkUrl": ""
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
         },
-        "images": [],
-        "rank": "4"
+        "images": [
+          {
+            "fileName": "da4.png",
+            "fileUrl": "https://raw.githubusercontent.com/YashChawla030/hr-matchmaker/master/images/da4.png"
+          }
+        ]
       }
     ]
   }
