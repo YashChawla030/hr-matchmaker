@@ -84,7 +84,23 @@
   },
   "achievementsInfo": {
     "displayName": "Awards",
-    "listOfAchievements": []
+    "listOfAchievements": [
+      {
+        "id": "1744283187776",
+        "text": "Received the “Best Mini Project” award in the 5th semester for developing a weather forecasting app using React, Tailwind CSS, and OpenWeatherMap API.",
+        "type": "award"
+      },
+      {
+        "id": "1744283193125",
+        "text": "Completed the “Meta Front-End Developer” professional certification on Coursera, covering topics like React, version control, testing, and accessibility.",
+        "type": "certificate"
+      },
+      {
+        "id": "1744283199442",
+        "text": "Developed a real-time event management dashboard using React and Firebase; awarded 1st place among 20+ teams at VIT.",
+        "type": "award"
+      }
+    ]
   },
   "projectsInfo": {
     "displayName": "Timeline",
