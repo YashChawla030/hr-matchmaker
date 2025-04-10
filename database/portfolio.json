@@ -127,7 +127,7 @@
             "fileUrl": "https://raw.githubusercontent.com/YashChawla030/hr-matchmaker/master/images/da2.jpg"
           }
         ],
-        "rank": "3"
+        "rank": "1"
       }
     ]
   },
@@ -164,7 +164,7 @@
           "linkUrl": ""
         },
         "images": [],
-        "rank": "1"
+        "rank": "3"
       },
       {
         "timeline": "2019 - 2023",
@@ -184,7 +184,8 @@
             "fileName": "da4.png",
             "fileUrl": "https://raw.githubusercontent.com/YashChawla030/hr-matchmaker/master/images/da4.png"
           }
-        ]
+        ],
+        "rank": "2"
       }
     ]
   }
