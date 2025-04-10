@@ -108,27 +108,27 @@
       {
         "timeline": "Jan'24 – Present",
         "projectName": "Zomato Web UI Redesign",
-        "headline1": " Enhancing the UI/UX of Zomato's web platform.",
+        "headline1": "YES Enhancing the UI/UX of Zomato's web platform. YES",
         "headline2": "Improved page load speed by 30% using lazy loading & code splitting.",
-        "designation": "Frontend Engineering Intern",
+        "designation": "Frontend Engineering Internee",
         "link": {
           "linkText": "Link",
           "linkUrl": "https://originui.com/badge"
         },
-        "skills": "React.js, Next.js, Tailwind CSS, TypeScript, Web Performance Optimization",
-        "companyName": "Zomato",
+        "skills": "React.js, Next.js, Tailwind CSS, TypeScript, JavaScript, Web Performance Optimization",
+        "companyName": "Zomato Swiggy",
         "images": [
           {
-            "fileName": "fe2.jpg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-matchmaker/master/images/fe2.jpg"
+            "fileName": "da1.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/YashChawla030/hr-matchmaker/master/images/da1.jpeg"
           },
           {
-            "fileName": "fe3.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-matchmaker/master/images/fe3.png"
+            "fileName": "da2.jpg",
+            "fileUrl": "https://raw.githubusercontent.com/YashChawla030/hr-matchmaker/master/images/da2.jpg"
           },
           {
-            "fileName": "fe1.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-matchmaker/master/images/fe1.png"
+            "fileName": "da3.png",
+            "fileUrl": "https://raw.githubusercontent.com/YashChawla030/hr-matchmaker/master/images/da3.png"
           }
         ]
       }
