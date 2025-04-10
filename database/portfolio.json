@@ -78,14 +78,9 @@
         "id": "1744278442285",
         "name": "MERN Stack",
         "rating": 9
-      },
-      {
-        "id": "1744278714401",
-        "name": "heyyy",
-        "rating": 5.5
       }
     ],
-    "skillAnimationType": "scale-animation"
+    "skillAnimationType": "moving-animation"
   },
   "achievementsInfo": {
     "displayName": "Achievements",
